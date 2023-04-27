@@ -1,0 +1,1 @@
+# GWAS-selected-SNPs-included-in-GS
